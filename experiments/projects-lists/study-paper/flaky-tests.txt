@@ -1,0 +1,13 @@
+hindol-commons
+MottoX-SkipList
+nedap-archie
+nmcl-JavaSim
+samokhodkin-whippet-db
+smartcodeltd-release-candidate-maven-plugin
+Techcable-Event4J
+urbanairship-java-library
+apache-tomcat-jakartaee-migration
+tinify-tinify-java
+tsegismont-vertx-contextual-logging
+vlingo-xoom-http
+vlingo-xoom-schemata

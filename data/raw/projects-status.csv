@@ -1,0 +1,1574 @@
+project,status
+2captcha-2captcha-java,OK
+3redronin-mu-server,OK
+520github-fw-parallel-task,OK
+520github-fw-perf-test,ltw time too short
+520github-fw-statemachine,ltw time too short
+6tail-lunar-java,ctw time too short
+6tail-tyme4j,ltw time too short
+abahgat-suffixtree,ltw time too short
+AccelerationNet-access2csv,ltw time too short
+acegi-xml-format-maven-plugin,ctw failed
+actiontech-dble,ctw time too short
+AdamBien-jwtenizr,ctw time too short
+AdamBien-xplr,ltw time too short
+addthis-stream-lib,OK
+adobe-commerce-cif-magento-graphql,ctw failed
+adobe-htl-tck,ltw time too short
+aehrc-ontology-core,ctw failed
+aelstad-keccakj,OK
+aerogear-aerogear-unifiedpush-java-client,ctw time too short
+afranken-jmeter-analysis-maven-plugin,ctw time too short
+Afrozaar-wp-api-v2-client-java,ctw time too short
+afrunt-jach,ltw time too short
+agarciadom-xeger,OK
+agentgt-jatl,ltw time too short
+agido-malter-logback-elasticsearch-appender,ltw time too short
+agiledon-payroll-ddd,ctw failed
+AgNO3-jcifs-ng,ctw time too short
+agoncal-agoncal-application-petstore-ee7,ctw time too short
+agrison-jtoml,regular javamop (ltw) failed
+agrison-redux4j,ctw time too short
+aidhog-blabel,ltw time too short
+ainslec-picocog,ltw time too short
+ajantis-java-crdt,ltw time too short
+akamai-NetStorageKit-Java,ltw time too short
+AlanDelip-SpringBoot-Template,ctw failed
+alanhay-html-exporter,ctw time too short
+albfernandez-itext2,ctw failed
+albfernandez-javadbf,OK
+aled-jsi,ctw time too short
+aleksandr-m-gitflow-maven-plugin,ltw time too short
+alessio29-savagebot,ctw time too short
+alex2chen-j-statemachine,ltw time too short
+alexcojocaru-elasticsearch-maven-plugin,ctw time too short
+alexnederlof-Jasper-report-maven-plugin,ctw failed
+AlexP11223-JavaSpringMvcBlog,ctw time too short
+alexr007-ultimate8,ltw time too short
+alfasoftware-soapstone,ctw time too short
+alibaba-rsocket-broker-rsocket-broker-gateway-mqtt,ctw failed
+alipay-ams-java-sdk,ctw time too short
+aliyun-aliyun-log-flink-connector,ltw time too short
+aliyun-aliyun-log-logback-appender,ctw time too short
+almondtools-stringsearchalgorithms,OK
+almson-almson-refcount,OK
+alt236-apkdetails,ltw time too short
+amazon-archives-amazon-kinesis-connectors,ctw time too short
+amazon-archives-aws-dynamodb-stream-eventbridge-fanout,ctw time too short
+amazon-archives-aws-request-signing-apache-interceptor,ltw time too short
+amazon-archives-aws-ssm-java-caching-client,ctw time too short
+amazon-archives-dynamodb-key-diagnostics-library,ctw failed
+amazon-archives-pocket-etl,ctw failed
+amazon-ion-ion-docs,ctw time too short
+amihaiemil-docker-java-api,ctw time too short
+amihaiemil-zold-java-client,ctw time too short
+amzn-amazon-pay-api-sdk-java,ctw time too short
+andree-surya-moji4j,ltw time too short
+andylamp-BPlusTree,OK
+Ant-Grand-Grand,ctw time too short
+antherd-sm-crypto,ltw time too short
+Antibrumm-jackson-antpathfilter,OK
+antlr-antlrworks,ltw time too short
+antlr-stringtemplate3,ctw failed
+anubhavshukla-properties-to-yaml-converter,ltw time too short
+apache-commons-cli,ltw time too short
+apache-commons-codec,OK
+apache-commons-compress,ctw failed
+apache-commons-graph,OK
+apache-commons-imaging,ctw failed
+apache-commons-jxpath,ctw time too short
+apache-commons-lang,regular javamop (ltw) failed
+apache-commons-ognl,regular javamop (ltw) failed
+apache-dubbo-hessian-lite,ctw time too short
+apache-dubbo-rpc-jsonrpc,ctw time too short
+apache-flink-benchmarks,ctw failed
+apache-giraph,regular javamop (ltw) failed
+apache-maven-clean-plugin,ctw failed
+apache-maven-compiler-plugin,ctw failed
+apache-maven-deploy-plugin,ctw failed
+apache-maven-ear-plugin,ltw time too short
+apache-maven-help-plugin,ctw failed
+apache-maven-install-plugin,ctw failed
+apache-maven-jar-plugin,ctw failed
+apache-maven-jarsigner-plugin,ctw failed
+apache-maven-shade-plugin,ctw failed
+apache-maven-shared-utils,ctw failed
+apache-maven-site-plugin,ctw failed
+apache-maven-source-plugin,ctw failed
+apache-maven-verifier-plugin,ltw time too short
+apache-maven-war-plugin,ctw failed
+apache-pdfbox-jbig2,ctw time too short
+apache-sling-org-apache-sling-dynamic-include,ctw failed
+apache-sling-org-apache-sling-feature,ctw time too short
+apache-sling-org-apache-sling-query,ctw failed
+apache-sling-org-apache-sling-scripting-sightly,ctw failed
+apache-sling-org-apache-sling-servlets-resolver,ctw time too short
+apanimesh061-VaderSentimentJava,ctw time too short
+apereo-cas-server-security-filter,ctw time too short
+Appdynamics-redis-monitoring-extension,ctw failed
+appnexus-ElasticNet4j,ltw time too short
+AquaticInformatics-aquarius-sdk-java,ctw time too short
+arangodb-jackson-dataformat-velocypack,cannot remove hot methods
+arangodb-java-velocypack,ltw time too short
+archervanderwaal-storm-server,ctw time too short
+Ardesco-driver-binary-downloader-maven-plugin,ctw time too short
+Ardesco-Query,ctw failed
+arey-spring-batch-toolkit,ctw failed
+argoproj-labs-argo-client-java,ctw failed
+arnaugarcia-sallefy,ctw failed
+Arnauld-gutenberg,regular javamop (ltw) failed
+asaflevy-SelenuimExtend,OK
+Asana-java-asana,ctw time too short
+asciidoctor-asciidoclet,ctw failed
+aseldawy-spatialhadoop2,ctw failed
+ashenwgt-awesome-bdd-with-cucumber,ctw time too short
+ashish-chopra-Structures,ltw time too short
+AshisRaj-cucelastic-maven-plugin,ctw time too short
+ashwanthkumar-gocd-janitor,ctw time too short
+ashwanthkumar-slack-java-webhook,ltw time too short
+assertthat-selenium-shutterbug,ltw time too short
+ATLANTBH-owl,ltw time too short
+atorstling-bychan,ltw time too short
+Atrox-haikunatorjava,ltw time too short
+atteo-evo-inflector,ctw time too short
+attoparser-attoparser,OK
+augustd-burp-suite-jsonpath,ltw time too short
+aurbroszniowski-os-platform-finder,ltw time too short
+aurbroszniowski-Rainfall-core,ctw time too short
+autermann-yaml,ctw time too short
+authlete-authlete-java-common,ctw time too short
+AuthorizeNet-sample-code-java,OK
+AuthorizeNet-sdk-java,ctw time too short
+authorjapps-simulator,ctw time too short
+avaje-common-avaje-agentloader,ctw time too short
+AVMf-avmf,ltw time too short
+avodonosov-hashver-maven-plugin,regular javamop (ltw) failed
+AwakenCN-InChat,ltw time too short
+aws-amazon-neptune-sigv4-signer,ctw time too short
+aws-cloudformation-cloudformation-template-schema,ltw time too short
+awslabs-amazon-kinesis-scaling-utils,ltw time too short
+awslabs-amazon-sns-java-extended-client-lib,ctw time too short
+awslabs-aws-codepipeline-custom-job-worker,ctw time too short
+awslabs-aws-glue-catalog-sync-agent-for-hive,ctw time too short
+awslabs-route53-infima,OK
+axelhjalm-bitwig-midi-fighter-twister,ltw time too short
+azam-ulidj,ltw time too short
+azige-moebooru-viewer,ctw failed
+Azure-azure-functions-java-worker,ctw time too short
+Azure-Samples-cassandra-proxy,ctw time too short
+badlogic-basis-template,ltw time too short
+baidu-smartapp-openapi-java,ctw failed
+Bandwidth-java-bandwidth,ctw time too short
+BarcodeAPI-server,ctw time too short
+barrer-translate-online,ctw time too short
+Barteks2x-173generator,OK
+basdijkstra-tau-rest-assured,ctw time too short
+baswerc-routes,ctw time too short
+bazaarvoice-dropwizard-redirect-bundle,ltw time too short
+bazaarvoice-jsonpps,ctw time too short
+bazaarvoice-rison,ctw time too short
+bdupras-guava-probably,ctw time too short
+BellaDati-belladati-sdk-java,ctw time too short
+ben-xo-cdjscrobbler,ctw time too short
+beothorn-URISchemeHandler,ltw time too short
+berlam-github-bucket,ctw time too short
+bernardosulzbach-dungeon,ctw time too short
+berndporr-iirj,ltw time too short
+BestCreater-SSM,ltw time too short
+bestyize-DoubanAPI,ltw time too short
+beyonddream-JRAKE,ltw time too short
+bfh-evg-unicrypt,ctw failed
+bgandon-juli-to-slf4j,ltw time too short
+binance-binance-connector-java,ctw time too short
+binance-binance-futures-connector-java,ctw time too short
+BingAds-BingAds-Java-SDK,OK
+binghe001-mykit-holiday,ctw time too short
+bingoohuang-excel2javabeans,ctw failed
+bingoohuang-westid,ctw failed
+biouno-figshare-java-api,ltw time too short
+biouno-pbs-java-api,ltw time too short
+bkatwal-kafka-solr-sink-connector,ctw time too short
+bkatwal-kafka-util,OK
+bkiers-atlas,ltw time too short
+blackbeard334-djoom3,ltw time too short
+blackdoor-hate,ctw time too short
+Blazemeter-xtn5250,cannot remove hot methods
+blinkfox-jpack-maven-plugin,ctw failed
+blinkfox-mini-table,ltw time too short
+blinkfox-zealot,ctw failed
+blockchain-jd-com-bftsmart,regular javamop (ltw) failed
+blueapron-kafka-connect-protobuf-converter,ctw time too short
+bluemix-NumberToArabicWords,ltw time too short
+bmatthews68-ldapunit,OK
+bmwcarit-hmm-lib,ltw time too short
+bnb-chain-java-sdk,regular javamop (ltw) failed
+bohnman-squiggly,ctw time too short
+bonnyfone-vectalign,ltw time too short
+bookshelfdave-etp,ltw time too short
+bot4dofus-B4D,test failed
+bouncestorage-chaos-http-proxy,OK
+bpodgursky-jbool_expressions,ltw time too short
+bpsm-edn-java,ltw time too short
+braintree-braintree_java,ctw time too short
+bremersee-sms,ctw time too short
+brettwooldridge-SparseBitSet,OK
+bruceran-krpc,ctw failed
+brutusin-commons,ltw time too short
+brutusin-instrumentation,ltw time too short
+bserdar-jcliff,ltw time too short
+btrekkie-dynamic-connectivity,ltw time too short
+btrplace-scheduler,mop profiler failed
+bubuntux-poker-engine,ltw time too short
+buddy-works-simple-java-project,ltw time too short
+budhash-cliche,ltw time too short
+c0ny1-captcha-killer,ltw time too short
+camunda-camunda-xml-model,ctw time too short
+Cantara-Java-Auto-Update,OK
+carlosbritojun-jflunt,ltw time too short
+carlostse-jopencc,ltw time too short
+CarmJos-AliDDNS-Updater,ctw time too short
+casbin-jcasbin,ctw time too short
+casid-jusecase,ltw time too short
+cbartosiak-bson-codecs-jsr310,ltw time too short
+cellsrg-tabbypdf,ltw time too short
+Celos-avro-json-decoder,ctw time too short
+centro-monitoring-center,clone failed
+CeON-spark-utils,ctw failed
+ceridwen-com-ceridwen-standard-interchange-protocol-library,ctw time too short
+cescoffier-vertx-completable-future,OK
+cflint-CFLint,regular javamop (ltw) failed
+ChannelApe-shopify-sdk,ctw time too short
+Chatanga-Girinoscope,ltw time too short
+chengdedeng-waf,ctw time too short
+chenhaiyangs-mybatis-encrypt-plugin,ltw time too short
+chenjianjx-swagger2html,ctw failed
+chenjianjx-wsdl2html,ltw time too short
+chocoteam-choco-graph,OK
+chrfrantz-DBSCAN,ltw time too short
+chriswhocodes-FreeLogJ,ltw time too short
+Chrriis-RRDiagram,ltw time too short
+chyxion-table-to-xls,ctw time too short
+cimiano-tbx2rdf,ctw failed
+CiscoDevNet-stealthwatch-data-exporter,ctw time too short
+cjmatta-kafka-connect-irc,ltw time too short
+clarkchen-data_structure,ltw time too short
+cliang97-HealthReport-WUT,ctw failed
+cloudbees-diff4j,ltw time too short
+cloudbees-oss-zendesk-java-client,ctw failed
+cloudiator-sword,ctw failed
+cloudiator-visor,ltw time too short
+cloudspannerecosystem-pgadapter,ctw time too short
+cm-heclouds-onenet-studio-api-java-sdk,ctw time too short
+cocolian-cocolian-nlp,OK
+CODAIT-stocator,ctw failed
+code4craft-xsoup,ctw time too short
+codeclou-java-junit-xml-merger,ctw time too short
+codedance-silken,ltw time too short
+codeforamerica-pdfparser,ctw failed
+codeine-cd-codeine,ctw time too short
+codelibs-elasticsearch-dataformat,OK
+codelibs-elasticsearch-dynarank,OK
+codelibs-elasticsearch-langfield,OK
+codelibs-elasticsearch-sstmpl,OK
+codelibs-jcifs,ctw time too short
+codelibs-jhighlight,ltw time too short
+codelibs-ranklib,ltw time too short
+codelion-gramtest,cannot remove hot methods
+codepine-testrail-api-java-client,ctw time too short
+coderodde-OrderStatisticTree,ltw time too short
+CodeShield-Security-Log4JShell-Bytecode-Detector,ctw time too short
+CodinGameCommunity-XmasRush,ltw time too short
+coekie-gentyref,ltw time too short
+coldnew-twse-captcha-solver-java,ctw time too short
+Col-E-Simple-Memory-Compiler,ctw time too short
+confluentinc-castle,ctw time too short
+confluentinc-kafka-connect-datagen,OK
+contentful-contentful.java,ctw time too short
+contentful-contentful-management.java,ctw time too short
+conveyal-osm-lib,OK
+coralblocks-CoralME,ctw time too short
+corentin59-ArtNetStack,ltw time too short
+Coreoz-PPT-Templates,ctw time too short
+Coreoz-Wisp,OK
+couchbaselabs-couchbase-capi-server,ctw time too short
+Coveros-GitHub-Sandbox-selenified,ctw time too short
+cowtowncoder-java-cachemate,ltw time too short
+cowtowncoder-java-uuid-generator,OK
+cowtowncoder-low-gc-membuffers,ltw time too short
+c-rack-cbor-java,ltw time too short
+craigwblake-redline,ctw time too short
+crispab-javabuilderpattern,ltw time too short
+crossoverJie-distributed-redis-tool,ctw failed
+crossoverJie-leetcode,ltw time too short
+Crozin-Wykop.pl-Java-SDK,ltw time too short
+Cryptonomica-cryptonomica,ctw time too short
+ctapweb-AutoSubClause,ctw failed
+cternes-openkeepass,ctw time too short
+ctran-TinyRadius,ltw time too short
+ctrl-alt-dev-tps-parse,OK
+ctron-rpm-builder,ltw time too short
+CubeEngine-Dirigent,ltw time too short
+CurrencyCloud-currencycloud-java,OK
+cutecharts-cutecharts.java,ctw time too short
+cyberborean-rdfbeans,ctw time too short
+CycloneDX-cyclonedx-maven-plugin,ctw failed
+daanvdh-JavaForger,regular javamop (ltw) failed
+dadiyang-equator,ltw time too short
+dadoonet-elasticsearch-beyonder,ctw failed
+daimuuc-CampusLife-SSM-,ctw failed
+DaisyDiff-DaisyDiff,ltw time too short
+daisy-jhyphen,ltw time too short
+damienclaveau-kafka-graphite,ctw time too short
+damnhandy-Handy-URI-Templates,ctw time too short
+dampcake-bencode,ltw time too short
+danieldk-dictomaton,OK
+danielwegener-logback-kafka-appender,ctw time too short
+dano-vertx-zeromq,ctw failed
+darmiel-eeee,ltw time too short
+dart-maven-plugin-dart-maven-plugin,ltw time too short
+DataDog-java-dogstatsd-client,OK
+DataDog-jmeter-datadog-backend-listener,ctw time too short
+datastax-native-protocol,ctw time too short
+datoin-http-requests,ctw time too short
+davidB-scala-maven-plugin,ltw time too short
+DavidHerBet-java-codility,ltw time too short
+davidmoten-aws-maven-plugin,ctw failed
+davidmoten-bplustree,OK
+davidmoten-guava-mini,ltw time too short
+davidmoten-predict4java,ctw time too short
+davidmoten-rtree,cannot remove hot methods
+davidmoten-rtree2,cannot remove hot methods
+davidmoten-rtree-multi,cannot remove hot methods
+davidmoten-rxjava2-file,ctw time too short
+davidmoten-rxjava-extras,regular javamop (ltw) failed
+davidmoten-rxjava-jdbc,ctw failed
+davidmoten-rxjava-slf4j,ctw time too short
+davidmoten-word-wrap,ltw time too short
+dbaggott-newrelic-dropwizard,ctw time too short
+ddopson-java-class-enumerator,ltw time too short
+deemogsw-rocketMQ-flink-connector,unknown
+delthas-JavaMP3,ltw time too short
+demidenko05-beigesoft-accounting,ltw time too short
+demidenko05-beigesoft-webstore,ltw time too short
+de-mklinger-tomcat-juli-slf4j,ltw time too short
+deniswsrosa-liquicouch,ctw time too short
+denniskniep-GQLRaider,ctw time too short
+DenzelCode-AdvancedSQL,OK
+dev-aspectj-aspectj-maven-plugin,ctw time too short
+devcon5io-mutation-analysis-plugin,ctw time too short
+devnied-Bit-lib4j,ltw time too short
+devopshydclub-vprofile-project,ctw time too short
+devopshydclub-vprofile-repo,ctw time too short
+dgroup-docker-unittests,ctw time too short
+dgroup-laconic-velocity,ctw time too short
+dhananjaypatkar-kafka-connect-phoenix,ctw failed
+dhatim-business-hours-java,ltw time too short
+dibbhatt-kafka-spark-consumer,ltw time too short
+didi-benchmark-thrift,OK
+digipost-http-client-builder,ltw time too short
+digitalfondue-npjt-extra,ctw time too short
+digitalheir-java-nfa,ltw time too short
+DigitalPebble-TextClassification,ltw time too short
+digitalpetri-opc-ua-nodeset-parser,ltw time too short
+digital-preservation-utf8-validator,ltw time too short
+dikhan-pagerduty-client,OK
+dingjs-javaagent,ltw time too short
+dizitart-jbus,ctw time too short
+dkellenb-formula-evaluator,ltw time too short
+dmak-jaxb-xew-plugin,ctw time too short
+dmcg-okey-doke,ltw time too short
+dmeoli-WS4J,ctw time too short
+dmitry-zhuravlev-jooq-postgis-spatial,ltw time too short
+dnsjava-dnsjava,ctw failed
+Doccrazy-keycloak-protocol-cas,ctw time too short
+domclick-kafka-logback,ctw failed
+dpaukov-combinatoricslib,ltw time too short
+dperezcabrera-jpoker,OK
+d-plaindoux-suitcase,ltw time too short
+dpressel-sgdtk,ltw time too short
+dreezey-argon2-password-hash-provider,ctw time too short
+DReichLab-ADNA-Tools,ctw time too short
+Driftt-EmailReplyParser,ltw time too short
+drmacro-wordinator,ctw time too short
+dropwizard-dropwizard-elasticsearch,ctw time too short
+dropwizard-dropwizard-health,ctw failed
+dsc-cmt-cmt-statemachine,ctw time too short
+dspinellis-ckjm,ltw time too short
+dsyer-spring-security-rsa,ltw time too short
+dubasdey-portable-ftp-server,ctw time too short
+dubin555-Kafka-Insight,ltw time too short
+duguying-pinyin,ltw time too short
+duma-repo-manis-study,ltw time too short
+dyng-polling,ltw time too short
+earcut4j-earcut4j,ltw time too short
+eBay-bsonpatch,ctw time too short
+eBay-FeedSDK,ctw time too short
+eBay-json-comparison,ctw time too short
+ECharts-Java-ECharts-Java,ctw time too short
+echisan-wbp4j,ctw time too short
+ecki-et-otp,ltw time too short
+eclipse-jbom,ctw time too short
+edagarli-azeroth-event,ctw time too short
+edgexfoundry-support-rulesengine,ctw failed
+e-gineering-gitflow-helper-maven-plugin,ltw time too short
+eightbitjim-cassette-nibbler,OK
+EladLeev-KeyToField-smt,ltw time too short
+elasql-elasql,ltw time too short
+elasticpath-json-unmarshaller,ctw time too short
+ElectronicChartCentre-java-vector-tile,OK
+EnterpriseQualityCoding-FizzBuzzEnterpriseEdition,ctw time too short
+entrusc-xdata,ltw time too short
+eolinker-sql2dsl,ctw time too short
+erdtman-java-json-canonicalization,ltw time too short
+errai-errai,ctw failed
+esamson-logback-luhn-mask,ctw time too short
+EsmerilProgramming-overtown,ctw time too short
+EsotericSoftware-yamlbeans,ctw time too short
+ethlo-jsons2xsd,ctw time too short
+etsy-arbiter,ctw failed
+etsy-statsd-jvm-profiler,ctw time too short
+eurekaclinical-datastore,ctw time too short
+eurekaclinical-javautil,ltw time too short
+everwatchsolutions-json-data-generator,ltw time too short
+exchange-core-orderbook,ctw time too short
+EXIficient-exificient-core,ltw time too short
+ExpediaGroup-avro-compatibility,ctw time too short
+ExpediaGroup-datasqueeze,ctw failed
+ExpediaGroup-jasvorno,ctw time too short
+eyp-serfj,ctw time too short
+f0ng-captcha-killer-modified,ltw time too short
+f4b6a3-ksuid-creator,ltw time too short
+f4b6a3-tsid-creator,OK
+f4b6a3-ulid-creator,ltw time too short
+f4b6a3-uuid-creator,OK
+fabric8io-docker-maven-plugin,ctw failed
+facebook-facebook-java-business-sdk,ctw time too short
+FAIRdom-RightField,ctw failed
+fanchaoo-forum,ctw failed
+fanchaoo-hahu,ctw failed
+fangyidong-json-simple,ltw time too short
+fasseg-exp4j,ltw time too short
+FasterXML-jackson-annotations,ltw time too short
+FasterXML-jackson-benchmarks,ltw time too short
+FasterXML-jackson-core,OK
+FasterXML-java-classmate,ltw time too short
+fcrepo-exts-fcrepo-import-export,ctw failed
+fdinoff-neovim-java-client,ctw time too short
+FDMediagroep-hamcrest-jsoup,ltw time too short
+feiYouLian-jpinyin,ltw time too short
+FelixGail-gplaymusic,ltw time too short
+fengwenyi-api-result,ltw time too short
+ferstl-depgraph-maven-plugin,ctw failed
+ferstl-pedantic-pom-enforcers,ctw failed
+ferstl-spring-jdbc-oracle,ctw time too short
+fhoeben-hsac-fitnesse-plugin,ctw time too short
+figo-connect-java-figo,ltw time too short
+fiji-AnalyzeSkeleton,ltw time too short
+finn-no-retriable-kafka-consumer,ctw failed
+fizzed-jne,ctw time too short
+flipkart-incubator-databuilderframework,generate charts failed
+floppylab-markdown2document,ctw time too short
+floverfelt-find-and-replace-maven-plugin,ltw time too short
+flowscolors-kube-eventer4j,ctw failed
+Flying9001-pay,ltw time too short
+forcedotcom-SiteCrawler,ltw time too short
+forcedotcom-wsc,OK
+fordfrog-ruian2pgsql,ltw time too short
+forgemo-bittrex-java-client,ctw time too short
+ForgeRock-OpenBanking-UK-Datamodel-Java-SDK,ctw time too short
+ForteScarlet-Mock.java,ltw time too short
+fortitudetec-sonar-ruby-plugin,ctw failed
+Francesco149-koohii,ltw time too short
+francisdb-serviceloader-maven-plugin,ltw time too short
+fraunhoferfokus-Fuzzino,OK
+freva-ascii-table,ltw time too short
+fsantiag-sonar-clojure,ctw time too short
+Fundynamic-dune2themaker4j,ctw time too short
+fusion-jena-JaroWinklerSimilarity,cannot remove hot methods
+fuzziness-kabeja,ltw time too short
+fzakaria-ascii85,ltw time too short
+g4dpz-predict4java,ltw time too short
+g4s8-cactoos-crypto,ltw time too short
+gabrie-allaigre-sonar-gitlab-plugin,OK
+gameontext-sample-room-java,regular javamop (ltw) failed
+games647-ColorConsole,ctw time too short
+ganskef-LittleProxy-mitm,OK
+GaoLeiQin-SwordOffer,ltw time too short
+gaols-reduce-rule,ltw time too short
+gatanaso-multiselect-combo-box-flow,ctw failed
+gchq-synthetic-data-generator,OK
+GeBeater-dozer-jdk8-support,ltw time too short
+geftimov-hadoop-map-reduce-patterns,ltw time too short
+george-haddad-cardme,ctw time too short
+geosolutions-it-geoserver-manager,ctw time too short
+geosolutions-it-http-proxy,ctw failed
+gesellix-Nimbus-JOSE-JWT,ltw time too short
+getgauge-contrib-gauge-maven-plugin,ctw failed
+getodk-javarosa,OK
+ghacupha-book-keeper,ltw time too short
+ghaffarian-progex,OK
+gherynos-secrete,ctw time too short
+ghosthack-turismo,ltw time too short
+Gikkman-Java-Twirk,ltw time too short
+giltene-jHiccup,ltw time too short
+gini-dropwizard-gelf,ctw time too short
+gisarmory-mbtiles4j,ltw time too short
+gitblit-iciql,regular javamop (ltw) failed
+gitbucket-markedj,ctw time too short
+GitHub-Laziji-reverse-regexp,ltw time too short
+gkopff-gson-javatime-serialisers,ltw time too short
+gkopff-gson-jodatime-serialisers,ctw time too short
+glenrobson-iiif-tiler,OK
+gmr-rabbitmq-flume-plugin,ltw time too short
+GMWolf-artemis-odb-eeel,ltw time too short
+goncalomb-NBTEditor,ltw time too short
+gongdaowen-ofdparser,ctw time too short
+googleapis-disco-to-proto3-converter,ctw time too short
+googleapis-java-pubsub-group-kafka-connector,ctw time too short
+googleapis-java-spanner-jdbc,ctw failed
+google-closure-stylesheets,ctw failed
+GoogleCloudPlatform-app-maven-plugin,ctw time too short
+GoogleCloudPlatform-kafka-pubsub-emulator,OK
+google-escapevelocity,ctw time too short
+google-guava-beta-checker,ctw failed
+google-jsontoken,ctw time too short
+GoSimpleLLC-jpgAgent,ltw time too short
+goxr3plus-java-google-speech-api,ltw time too short
+gquintana-metrics-sql,ctw time too short
+gradusnikov-jmatio,ltw time too short
+grantneale-kafka-lag-based-assignor,ltw time too short
+graphhopper-jackson-datatype-jts,ctw time too short
+graphstream-gs-algo,OK
+graphstream-gs-core,OK
+Graylog2-gelfclient,ctw time too short
+Graylog2-graylog-s3-lambda,regular javamop (ltw) failed
+graylog-labs-syslog4j-graylog2,ctw time too short
+greengerong-prerender-java,ctw time too short
+gregorriegler-babdev-spring,ltw time too short
+gridgain-yardstick,ltw time too short
+gridkit-jvm-attach,ltw time too short
+grumlimited-geocalc,ltw time too short
+Grundlefleck-ASM-NonClassloadingExtensions,OK
+gturri-aXMLRPC,ctw failed
+guoliao502-crypto,ctw time too short
+Guo-xm-mybatis-expand,ltw time too short
+habernal-confusion-matrix,ltw time too short
+hackingwu-Java-Promise,ltw time too short
+hageldave-ezFFTW,OK
+hajhouj-fastsico,ltw time too short
+hankcs-hanlp-lucene-plugin,ctw time too short
+harawata-appdirs,ltw time too short
+Harium-etyl,ltw time too short
+Harium-keel,ltw time too short
+HarvardPL-AbcDatalog,ctw time too short
+hazelcast-hazelcast-azure,ctw time too short
+hazelcast-hazelcast-kubernetes,ctw failed
+HdrHistogram-HdrHistogram,OK
+HebiRobotics-HebiCam,ltw time too short
+HelixNetwork-pendulum,cannot remove hot methods
+hellige-ccs,ltw time too short
+hellokaton-webp-io,ltw time too short
+hengyunabc-metrics-zabbix,ctw time too short
+heremaps-oksse,ltw time too short
+Heroicai0101-abtest,ltw time too short
+heroku-heroku-jvm-application-deployer,ltw time too short
+hertzsprung-hamcrest-json,ltw time too short
+hevoio-recoverable-kafka-producer,ctw time too short
+hifly81-bank-account-axon,ltw time too short
+hivsuper-document-converter,ltw time too short
+hkhcoder-vprofile-project,ctw time too short
+hlavki-jlemmagen,OK
+hneemann-digitalCustomComponents,ctw time too short
+hneemann-Oscilloscope,ltw time too short
+hoereth-springfox-enum-plugin,ctw time too short
+hoijui-Jawk,ctw time too short
+hoijui-ReZipDoc,ltw time too short
+hongbeomi-Programmers,ltw time too short
+hongliuliao-thrift-generator,ctw time too short
+houbb-heaven,ltw time too short
+houbb-nlp-hanzi-similar,ctw failed
+houbb-opencc4j,ctw time too short
+houbb-pinyin,ltw time too short
+houbb-segment,OK
+houbb-sensitive-word,OK
+houbb-word-checker,ltw time too short
+hsiafan-apk-parser,ctw time too short
+hsluv-hsluv-java,ltw time too short
+hs-web-hsweb-utils,ltw time too short
+huaban-jieba-analysis,OK
+huangbowen521-SpringJMSSample,ctw time too short
+huangp-entityunit,ctw failed
+hubert-marteau-MultiChainJavaAPI,ltw time too short
+HugoJhonathan-Challenge-Oracle-ONE-conversordemoedas,ltw time too short
+huiwang-cracking-the-coding-interview,ltw time too short
+huiyang100-excel-formula-engine,ltw time too short
+humbertodias-java-data-structures-algorithms,ltw time too short
+hummeling-if97,ltw time too short
+iamazy-elasticsearch-sql2,ctw time too short
+ibit-tech-sql-builder,ltw time too short
+IBlogLab-enhance-gateway,ctw failed
+IBM-Cloud-gp-java-client,ltw time too short
+iceenongli-iceworkday,ltw time too short
+icgw-FCA-Map,ctw time too short
+icon-Systemhaus-GmbH-javassist-maven-plugin,ctw failed
+idealo-logback-redis,ctw time too short
+idealo-mongodb-slow-operations-profiler,ltw time too short
+ifpe-cti-saudegaranhuns,ctw failed
+igniterealtime-openfire-hazelcast-plugin,ctw failed
+igniterealtime-tinder,OK
+iipc-jwarc,ltw time too short
+iipc-openwayback,ctw failed
+iipc-urlcanon,ltw time too short
+iipc-webarchive-commons,ctw failed
+imadcn-idworker,ctw failed
+imagej-example-script-collection,ctw failed
+imagej-imagej-omero,regular javamop (ltw) failed
+Imaginary11-bionic-utils,ctw failed
+imixs-muluk,ltw time too short
+imohsenb-ISO8583-Message-Client-java,ltw time too short
+in28minutes-JUnitIn28Minutes,ltw time too short
+iNamik-java_text_tables,ltw time too short
+indeedeng-mph-table,OK
+indeedeng-vowpal-wabbit-java,OK
+indexdata-cql-java,ltw time too short
+indrabasak-bouncycastle-fips-examples,ctw failed
+indunet-fastproto,regular javamop (ltw) failed
+InfoSec812-sonar-auth-google,ctw time too short
+Ingenico-ePayments-connect-sdk-java,ctw time too short
+ingwarsw-arquillian-suite-extension,test failed
+inreachventures-aws-signing-request-interceptor,ctw time too short
+instana-instana-java-opentracing,ltw time too short
+InstantWebP2P-tweetnacl-java,ltw time too short
+intelie-tinymap,regular javamop (ltw) failed
+intel-jndn-mock,ltw time too short
+internetitem-logback-elasticsearch-appender,ltw time too short
+in-the-keyhole-khs-sherpa,ltw time too short
+intoolswetrust-jsignpdf,ctw time too short
+intuit-graphql-filter-java,ctw failed
+inversoft-jackson5,ctw time too short
+inversoft-restify,ctw time too short
+io7m-aeron-guide,ltw time too short
+iorga-group-debattons,ctw failed
+iost-official-java-sdk,ctw time too short
+iotaledger-cliri,OK
+iquadrat-sbb-train-scheduler,OK
+iris-edu-stationxml-seed-converter,OK
+ironpinguin-serialized-php-parser,ltw time too short
+Isaac315-sql-translator,ctw time too short
+iterate-ch-java-openstack-swift,ltw time too short
+IvanTrendafilov-Confucius,ltw time too short
+ixa-ehu-ixa-pipe-ml,ltw time too short
+ixa-ehu-ixa-pipe-tok,ltw time too short
+iyzico-iyzipay-java,ltw time too short
+j256-simplecsv,ltw time too short
+j256-simplemagic,ctw time too short
+j256-two-factor-auth,ltw time too short
+jackhallam-weightless-orm,ctw time too short
+jacksonpradolima-csv2bib,ltw time too short
+jackyfd-collectionX,ltw time too short
+jaeheonshim-ChessBoard,ltw time too short
+jagrosh-GiveawayBot,ctw failed
+jagrosh-MusicBot,ltw time too short
+jagrosh-Vortex,ctw failed
+jahlborn-jackcess,OK
+jahlborn-jackcessencrypt,ctw time too short
+jahlborn-sqlbuilder,ltw time too short
+jai-imageio-jai-imageio-core,ctw time too short
+jamf-AppConfig-Generator,ltw time too short
+JanGorman-jersey-passbook,ltw time too short
+jano7-executor,ltw time too short
+janssk1-maven-graph-plugin,ctw time too short
+jarekratajski-badlam,ltw time too short
+JaroslavTulach-heapdump,ctw time too short
+JaroslavTulach-SelfGraal,ctw failed
+jarslab-babel-maven-plugin,ctw failed
+jasminb-jsonapi-converter,ctw time too short
+javadelight-delight-fileupload,ltw time too short
+javadev-moneytostr,ltw time too short
+javadev-sqltojava,ctw time too short
+JavadocMD-simplelatlng,ltw time too short
+javagl-Common,ltw time too short
+javagl-Obj,ltw time too short
+javalite-jar-explorer,ltw time too short
+javamelody-jira-confluence-javamelody,ctw time too short
+JavaMoney-jsr354-ri-bp,OK
+javamonkey-beetl2.0,ctw failed
+java-sepa-xml-java-sepa-xml,ltw time too short
+javastar920905-mdbook,ltw time too short
+Javastro-jsofa,ltw time too short
+jbossas-jboss-dmr,ctw failed
+jbossas-staxmapper,ltw time too short
+jbrundege-taro,ctw time too short
+jcabi-jcabi-maven-plugin,ctw time too short
+jcabi-jcabi-ssl-maven-plugin,ctw time too short
+jcbvm-i18n-editor,ltw time too short
+jchambers-fast-uuid,ltw time too short
+jchambers-id-obfuscator,ltw time too short
+jchambers-jeospatial,ltw time too short
+JCVenterInstitute-VIGOR4,ctw time too short
+jdbc-observations-datasource-proxy,ctw time too short
+jdubois-spring-on-azure,ctw failed
+j-easy-easy-flows,ctw time too short
+j-easy-easy-states,ctw time too short
+jedicontributors-jedi-kafka-client,cannot remove hot methods
+JeffLi1993-java-core-learning-example,ltw time too short
+jenkinsci-custom-distribution-service,ctw failed
+jenkinsci-syslog-java-client,ltw time too short
+jenshadlich-S3-Performance-Test,ltw time too short
+jericks-geometrycommands,ctw time too short
+jericks-geoserver-shell,ctw failed
+jericks-parboiled-wkt,ctw failed
+JervyShi-nacos-embedded,OK
+jessin20161124-miniDubboOpen,ctw failed
+JetBrains-jetCheck,OK
+jetlang-remoting,OK
+jetty-project-jetty-eventsource-servlet,ctw time too short
+jfaster-mango,ctw time too short
+jfinal-jfinal,ltw time too short
+jghoman-haivvreo,ctw failed
+jhalterman-concurrentunit,ltw time too short
+jhalterman-lyra,ctw time too short
+jhalterman-typetools,ltw time too short
+jhunters-jprotobuf,ctw time too short
+jiangxincode-SearchEngine,ltw time too short
+jiaqi-caff,regular javamop (ltw) failed
+jillesvangurp-osm2geojson,ctw time too short
+jinahya-bit-io,OK
+jingpeicomp-id-generator,OK
+jitsi-bccontrib,ltw time too short
+jitsi-jitsi-webrtc-vad-wrapper,ltw time too short
+jitsi-otr4j,ctw time too short
+jjohannes-gradle-module-metadata-maven-plugin,ctw failed
+jklingsporn-vertx-push-onesignal,ctw time too short
+jlawrie-opencsv,ltw time too short
+jlinn-quartz-redis-jobstore,OK
+jmazzitelli-prometheus-scraper,ltw time too short
+jmurty-java-xmlbuilder,ltw time too short
+jnr-jnr-constants,ltw time too short
+jnr-jnr-enxio,ctw time too short
+jnr-jnr-ffi,OK
+jnr-jnr-netdb,ctw time too short
+jnr-jnr-process,ctw time too short
+jnr-jnr-unixsocket,ctw time too short
+JodaOrg-joda-collect,ltw time too short
+JodaOrg-joda-time,ctw time too short
+JodaOrg-joda-time-hibernate,ctw time too short
+JodaOrg-joda-time-i18n,ltw time too short
+joel-costigliola-assertj-neo4j,ctw time too short
+joelittlejohn-embedmongo-maven-plugin,ctw failed
+johnlcox-toml4j,ltw time too short
+johnlpage-POCDriver,ctw time too short
+JohnsProject-JGameEngine,ltw time too short
+jonatan-kazmierczak-class-visualizer,ltw time too short
+jonathanhds-sql-builder,ctw time too short
+jon-hanson-parsecj,ltw time too short
+joniles-rtfparserkit,ltw time too short
+jonpereiradev-diff-objects,ltw time too short
+JoonasVali-jartin,ltw time too short
+jordw-heftydb,OK
+joshgontijo-rest-client,ctw failed
+jottley-spring-social-salesforce,ctw time too short
+jpenren-thymeleaf-ui-dialect,ctw time too short
+jprante-elasticsearch-csv,ctw time too short
+jprante-elasticsearch-transport-websocket,OK
+jprante-log4j2-elasticsearch,ctw time too short
+jqassistant-archive-jqa-graphml-plugin,ctw failed
+jqassistant-archive-jqa-javaee6-plugin,ctw failed
+jramoyo-indexed-file-reader,ltw time too short
+jriecken-gae-java-mini-profiler,ltw time too short
+jrmelsha-keccak,ltw time too short
+jruby-jcodings,ltw time too short
+jruby-joni,ltw time too short
+js-cookie-java-cookie,ctw time too short
+jsolve-templ4docx,ctw time too short
+jsonld-java-jsonld-java,mop profiler failed
+jsunsoftware-http-request,ctw time too short
+jtidy-jtidy,ctw time too short
+jtmelton-attack-surface-analyzer,OK
+juandesi-email4j,ctw time too short
+julienchastang-charts4j,ltw time too short
+julietkilo-CANBabel,ltw time too short
+junichi11-netbeans-color-codes-preview,ctw time too short
+justauth-JustAuth,ctw time too short
+jvirtanen-config-extras,ltw time too short
+jvitorr-Jeasier,ltw time too short
+jzy3d-jGL,ltw time too short
+k55k32-simple-codegen,ctw time too short
+kabutz-striped-executor-service,OK
+kamaladafrica-codice-fiscale,ctw time too short
+kamranzafar-jtar,ltw time too short
+kapoorlabs-kiara,cannot remove hot methods
+KasperFranz-AntiAd,ltw time too short
+kayahr-pherialize,ltw time too short
+kazuhikoarase-jaconv,ltw time too short
+keighrim-mae-annotation,ctw failed
+keikai-dev-ref,ctw time too short
+keith0591-pgp-encryption,ctw failed
+KevinStern-software-and-algorithms,ltw time too short
+kevin-wang001-mockj,ctw time too short
+kevin-wang001-poi-el,ctw time too short
+kgalant-PackageBuilder,ltw time too short
+kifj-jboss-syslog,ltw time too short
+killbilling-recurly-java-library,ctw time too short
+kittylyst-ocelotvm,ltw time too short
+kklisura-props-to-constants-generator,ltw time too short
+klakegg-pkix-ocsp,ctw time too short
+knowm-jspice,ctw time too short
+ko5tik-jsonserializer,regular javamop (ltw) failed
+koendeschacht-bow-utils,ctw failed
+koen-serneels-ws-proxy,ctw time too short
+kohsuke-wordnet-random-name,ltw time too short
+kolchagov-java-crud-api,ltw time too short
+konsolas-ConditionalCommands,ltw time too short
+koraktor-steam-condenser-java,ctw failed
+KosherJava-zmanim,ltw time too short
+kravchik-jcommon,ltw time too short
+kristofa-mock-http-server,ctw time too short
+kristofa-wicket-tagcloud,ltw time too short
+krpors-delver,ltw time too short
+krullert-universe,ctw time too short
+ksprojects-zkcopy,ctw time too short
+Kuangcp-NettyBook2,ltw time too short
+Kugin-data-reconciliation,OK
+kungfoo-geohash-java,ltw time too short
+Kurento-kurento-module-creator,ctw time too short
+kwart-demo-kerberos-in-java,ltw time too short
+Labs64-swid-generator,ltw time too short
+lafaspot-ja3_4java,ltw time too short
+lamarios-sherdog-parser,OK
+LarryDpk-Google-Bard,ctw time too short
+lastaflute-lastaflute,ctw time too short
+lastfm-coverartarchive-api,ctw time too short
+LatencyUtils-LatencyUtils,OK
+lazee-freemarker-java-8,ctw time too short
+lbehnke-hierarchical-clustering-java,OK
+Lcry-java-png-compress-util,ltw time too short
+lemire-externalsortinginjava,ltw time too short
+leonbloy-pngj,ctw time too short
+leonhad-paradoxdriver,OK
+leonliao-wechat-app-pay-java-sdk,ctw time too short
+lerndevops-samplejavaapp,ltw time too short
+lettuce-io-lettuce-core,ctw failed
+levigo-jbig2-imageio,ltw time too short
+lexburner-consistent-hash-algorithm,OK
+lexburner-kdio,ltw time too short
+lfkdsk-bnf-ast,ltw time too short
+liangbaika-validate,ltw time too short
+LianjiaTech-json-diff,ltw time too short
+libcoolsocket-java,ltw time too short
+LibrePDF-OpenRTF,ltw time too short
+lightningMan-flash-netty,ctw time too short
+lightoze-gwt-i18n-server,ltw time too short
+lingyejun-tick-authenticator,ltw time too short
+linked-solutions-jarql,ctw time too short
+linux-china-plantuml-gist,ctw time too short
+linux-china-rocker-template-demo,ltw time too short
+linux-china-toolchains-maven-plugin,ctw time too short
+liqpay-sdk-java,ltw time too short
+liuanxin-api-document,ctw failed
+liudongdong0909-mybatis-generator-core-fix,ctw time too short
+LiveRamp-HyperMinHash-java,OK
+lizard-framework-lizard-spi,ltw time too short
+llatinov-sample-dropwizard-rest-stub,ltw time too short
+locationtech-spatial4j,OK
+loehndorf-scengen,ltw time too short
+LogisticsCraft-OcclusionCulling,ltw time too short
+logpresso-CVE-2021-44228-Scanner,ltw time too short
+loong0306-commutils4j,ltw time too short
+L-PLUM-ContractDetection,ctw failed
+lrozenblyum-chess,OK
+lucaspouzac-contiperf,OK
+lucidworks-spark-solr,ctw failed
+luigiselmi-flink-kafka-consumer,ltw time too short
+lujinfeifly-jsoncode,ltw time too short
+lukas-vlcek-elasticsearch.demo,ctw time too short
+lukfor-pgs-calc,OK
+lyg5623-lightgbm_predict4j,ctw time too short
+lzgabel-camunda-cloud-bpmn-converter,ctw time too short
+m09-syllable-counter,ltw time too short
+macacajs-wd.java,ctw time too short
+magdel-MapNav,ltw time too short
+MagicTheGathering-mtg-sdk-java,OK
+MagpieBridge-MagpieBridge,regular javamop (ltw) failed
+mahjong4j-mahjong4j,ctw time too short
+mailjet-mailjet-apiv3-java,ctw time too short
+makersoft-mybatis-shards,ctw time too short
+mambu-gmbh-Mambu-APIs-Java,ctw time too short
+ManuelB-facebook-recommender-demo,ltw time too short
+maping-java-maven-calculator-web-app,ltw time too short
+marcosvidolin-doco,ctw failed
+mariazevedo88-json-formatter-validator,ctw time too short
+MarkShen1992-Mashibing_High_Concurrency,ltw time too short
+marschall-path-classloader,ltw time too short
+marschall-svn-diffstat,ltw time too short
+martincooper-java-datatable,ltw time too short
+martin-g-wicket-jquery-selectors,ctw time too short
+marwin1991-keep-changelog-maven-plugin,ltw time too short
+marzn-telegrambot-japi,ctw time too short
+Maschell-JNUSLib,ltw time too short
+massigerardi-ta4j-strategy-parser,ctw time too short
+Mastercard-client-encryption-java,ctw time too short
+Mastercard-oauth1-signer-java,ctw failed
+mastodon-sc-mastodon,ctw failed
+mateiw-littlebasic,ltw time too short
+mattdavey-EuronextClone,ctw time too short
+matthewhorridge-mdock,ltw time too short
+matthewhorridge-owlexplanation,ctw failed
+matthiaszimmermann-ethereum-paper-wallet,ctw time too short
+mattsheppard-gethostname4j,ltw time too short
+maven-nar-nar-maven-plugin,ctw time too short
+maxmind-geoip-api-java,ltw time too short
+maxtomin-decimal,OK
+mbizhani-Adroit,ctw failed
+mbronshteyn-quarkus-jdbi-project,ctw failed
+mdeanda-lorem,ltw time too short
+mdewilde-opml-parser,ctw time too short
+mdewilde-podcast-parser,ctw time too short
+mduerig-json-jerk,OK
+medmes-keycloak-monitoring-spi,ltw time too short
+meixuesong-aggregate-persistence,ltw time too short
+meltmedia-jgroups-aws,ctw time too short
+mercadopago-sdk-java,ctw time too short
+mesosphere-marathon-client,ctw time too short
+messai-engineering-Yuga,ctw time too short
+messenger4j-messenger4j,ctw time too short
+metamug-java-jwt,ltw time too short
+meteoinfo-wContour,ctw time too short
+MezereonXP-AnomalyDetectTool,OK
+mfathi91-persian-date-time,ltw time too short
+mguymon-model-citizen,ctw failed
+mhshams-jnbis,ctw time too short
+michaeltandy-log4j-json,ltw time too short
+michaelwittig-java-q,ltw time too short
+microsoft-AppCenter-Test-Appium-Java-Extensions,ctw failed
+microsoft-Availability-Monitor-for-Kafka,clone failed
+MieskeB-json-api-spring-boot,ltw time too short
+mike10004-common-helper,ctw failed
+mike706574-java-map-support,ltw time too short
+mikera-enlight,ctw time too short
+mikera-mikera,ltw time too short
+mikera-randomz,ltw time too short
+mileshenrichs-QuiFFT,ltw time too short
+mimno-Mallet,regular javamop (ltw) failed
+mincloud1501-DevOps,ltw time too short
+mirabeau-nl-ceddl4j,ctw time too short
+MitchTalmadge-ASCII-Data,ltw time too short
+mixer-beam-client-java,ctw time too short
+Mixermachine-base-test,ltw time too short
+mixpanel-mixpanel-java,ltw time too short
+mjsalerno-UnoBot,ltw time too short
+mlaccetti-rocksaw,ltw time too short
+mlieshoff-jcrapi,ctw failed
+mmastrac-nanojson,ltw time too short
+mocnik-science-geogrid,OK
+mokiat-java-data-front,ctw time too short
+momosecurity-mosec-maven-plugin,ctw failed
+momosecurity-rhizobia_J,regular javamop (ltw) failed
+monitorjbl-excel-streaming-reader,ctw failed
+monkeymq-jgossip,ctw time too short
+MottoX-BeanUtils,ltw time too short
+MottoX-TAOMP,OK
+MountCloud-graphql-client,ctw time too short
+moznion-java-random-string,ltw time too short
+mpatric-mp3agic,ctw time too short
+MPriess-GeoJSON-POJO,ctw time too short
+mraible-jhipster6-demo,ctw failed
+MRPanyu-excel-imp-exp,ctw failed
+msanez-sonar-branch-community,ctw failed
+msarhan-ummalqura-calendar,ltw time too short
+msemys-esjc,ctw time too short
+msigwart-fakeload,OK
+msojocs-OmenChallengeHelper,ltw time too short
+mulesoft-catalyst-mule-sonarqube-plugin,ctw time too short
+mulesoft-labs-rhinodo,ctw time too short
+murfffi-zebra4j,ctw failed
+murreIsCoding-auth,ltw time too short
+MutabilityDetector-MutabilityDetector,ctw failed
+mvallim-emv-qrcode,ctw time too short
+mvel-mvel,OK
+mvpjava-springboot-JUnit5-tutorial,ctw time too short
+mwanji-toml4j,ctw time too short
+mybatis-mapper-provider,ctw time too short
+myui-btree4j,cannot remove hot methods
+named-data-jndn,ctw time too short
+naosense-markdown-preview-sync,ltw time too short
+narupley-not-going-to-be-commons-ssl,ctw time too short
+naver-lucy-xss-servlet-filter,ctw time too short
+NawaMan-NullableJ,ltw time too short
+neil-justice-louvain,ctw time too short
+neilswainston-FragGenie,ctw time too short
+Neop-mudmap2,ltw time too short
+neo-search-multiple-string-searcher,ltw time too short
+netarchivesuite-heritrix3-wrapper,ltw time too short
+netceteragroup-trema-core,ctw time too short
+NetherlandsForensicInstitute-kafka-spout,ctw time too short
+neuland-jade4j,ctw time too short
+ngallagher-simplexml,OK
+nicolas-raoul-jakaroma,ltw time too short
+nicoulaj-checksum-maven-plugin,ctw time too short
+niesfisch-java-code-tracer,ctw time too short
+NightFlightCaptain-ssm,ltw time too short
+Nilhcem-FakeSMTP,ctw time too short
+ning-compress,ltw time too short
+ning-tr13,ltw time too short
+NishkarshRaj-Maven-Using-CMD,ltw time too short
+nla-outbackcdx,ctw time too short
+NLP2RDF-NIF-lib,ctw time too short
+NLPchina-ansj_seg,ctw failed
+noelherrick-jell,ltw time too short
+noophq-subtitle,ltw time too short
+Nordstrom-nifi_terraform_generator,ltw time too short
+nothingax-micro-DB,ctw time too short
+NovatecConsulting-BeanTest,OK
+novotnyradek-fred-client,ctw failed
+npathai-hamcrest-optional,ltw time too short
+NTTDATA-EMEA-QAT-cherry,ctw time too short
+nurkiewicz-typeof,ltw time too short
+nutzam-nutzwx,ctw time too short
+nuxeo-onedrive-java-client,ctw time too short
+o19s-RankyMcRankFace,ctw time too short
+ocaffe-numero-por-extenso,ltw time too short
+ocpsoft-common,ltw time too short
+octavian-h-time-series-math,cannot remove hot methods
+odiszapc-nginx-java-parser,ltw time too short
+offbynull-kademlia,ltw time too short
+offbynull-portmapper,ctw time too short
+ogrodnek-java_fathom,ltw time too short
+ohioit-rundeck-http-plugin,ctw failed
+olcaytaner-201-DataStructures-Java,ltw time too short
+OnlineCodex-OnlineCodex,ctw failed
+ooxi-jdatauri,ltw time too short
+openapi-tools-swagger-maven-plugin,ltw time too short
+opendatalab-de-geojson-jackson,ctw time too short
+open-dis-open-dis-java,ctw time too short
+open-eid-cdoc4j,OK
+OpenGamma-ElSql,ltw time too short
+opengeospatial-ets-ogcapi-features10,ctw failed
+OpenHFT-Chronicle-Algorithms,test failed
+OpenHFT-Chronicle-Threads,test failed
+OpenHFT-Chronicle-Values,test failed
+OpenHFT-JLBH,test failed
+openhkr-hkr-si,ctw time too short
+OpenLiberty-ci.common,ctw time too short
+openshift-openshift-restclient-java,ctw time too short
+openskynetwork-java-adsb,ltw time too short
+opentimestamps-java-opentimestamps,ctw time too short
+opentracing-contrib-java-concurrent,ltw time too short
+optimaize-command4j,ctw time too short
+OrderLab-OKLib,ctw time too short
+OrhanKupusoglu-bazelize-maven-plugin,ltw time too short
+orientechnologies-orientdb-jdbc,OK
+orphan-oss-launch4j-maven-plugin,ctw failed
+os72-protobuf-dynamic,ctw time too short
+osglworks-java-tool,ctw failed
+oskopek-javaanpr,ctw time too short
+outbrain-GomJabbar,ctw time too short
+OWASP-json-sanitizer,ltw time too short
+OWASP-OWASP-WebScarab,ctw time too short
+Pablissimo-SonarTsPlugin,ctw time too short
+pablobastidasv-kc_security,ctw time too short
+package-url-packageurl-java,ltw time too short
+PacktPublishing--Learn-Algorithms-and-Data-Structures-in-Java-for-Day-to-Day-Applications,OK
+pagehelper-Mybatis-PageHelper,ctw time too short
+palatable-lambda,ctw failed
+palatable-shoki,ctw time too short
+palindromicity-simple-syslog,cannot remove hot methods
+parship-roperty,ctw time too short
+pascalgn-jiracli,ctw time too short
+patrickfav-uber-adb-tools,ltw time too short
+patriques82-alphavantage4j,ctw time too short
+pawandubey-griffin,ltw time too short
+PawelGorny-lostword,ctw time too short
+Payment-Components-demo-sepa,ltw time too short
+paypal-Gibberish-Detector-Java,ltw time too short
+PearsonEducation-StatsAgg,regular javamop (ltw) failed
+pebbleblog-pebble,regular javamop (ltw) failed
+pedrovgs-Algorithms,ltw time too short
+peterbencze-serritor,ctw time too short
+PeterisP-morphology,ctw failed
+peter-lawrey-admin-Chronicle-Ticker,OK
+petterobam-mds2index.html,ctw time too short
+PhantomThief-thrift-pool-client,ltw time too short
+phax-as2-server,ctw time too short
+phax-ph-events,ctw time too short
+pheerathach-promptpay,ltw time too short
+phenopolis-pheno4j,regular javamop (ltw) failed
+philihp-weblabora,ctw time too short
+phylogeography-spread,ctw failed
+pierredavidbelanger-logback-awslogs-appender,ctw time too short
+pingcap-tidb-loadbalance,ltw time too short
+pizihao-crow,OK
+pk8est-table-printer,ctw time too short
+PlayPen-playpen-core,ltw time too short
+plutext-docx4j-export-FO,ctw failed
+pmckeown-dependency-track-maven-plugin,ctw failed
+pmlopes-aws-lambda-native-vertx,ctw time too short
+PoslavskySV-libdivide4j,ltw time too short
+pouyaesm-signed-community-detection,ltw time too short
+ppke-nlpg-purepos,ctw time too short
+prat-man-unique4j,ltw time too short
+printingin3d-javascad,ctw failed
+profesorfalken-jPowerShell,ltw time too short
+profesorfalken-jSensors,ltw time too short
+Progether-JAdventure,ctw failed
+Proteus1989-Air-Explorer-Decrypter,ltw time too short
+prpatel-serverless-java-mini-workshop,ltw time too short
+psjava-psjava,ctw time too short
+purcell-jargs,ltw time too short
+purecloudlabs-elasticsearch-lambda,ctw failed
+PureMVC-puremvc-java-standard-framework,ltw time too short
+PvdBerg1998-PNet,ltw time too short
+pvto-konte-art,ctw time too short
+qala-io-java-beginner-course,ltw time too short
+qiurunze123-Designpattern,ctw failed
+qmx-jitescript,ltw time too short
+qoomon-banking-swift-messages-java,ctw time too short
+qqilihq-property-editor,ltw time too short
+qubole-qds-sdk-java,OK
+qwhai-algorithms-sort,ltw time too short
+qzw1210-JustAuth,ctw time too short
+radkovo-Pdf2Dom,ctw time too short
+RagedUnicorn-github-release-maven-plugin,ctw time too short
+RakhmedovRS-DataStructuresAndAlgorithmsInJava2ndEdition,ltw time too short
+ralscha-bsoncodec,ltw time too short
+random-maven-profile-activator-extension,ctw time too short
+raydac-java-binary-block-parser,mop profiler failed
+RayDeCampo-java-xirr,ctw time too short
+raymanrt-orientqb,ltw time too short
+razorpay-razorpay-java,ctw time too short
+reactiverse-vertx-maven-plugin,ctw time too short
+realexpayments-rxp-hpp-java,ctw time too short
+RealZimboGuy-ewelink-api-java,ltw time too short
+reckart-tt4j,ctw time too short
+RedCA-Family-code-analyst,regular javamop (ltw) failed
+redlink-gmbh-redlink-java-sdk,ctw time too short
+reecetech-bamboo-specs,ctw failed
+reggert-reb4j,ltw time too short
+reinert-JJSchema,ctw time too short
+renfei-ik-analyzer,OK
+resourcepool-ssdp-client,OK
+RestComm-jasn,ltw time too short
+RestExpress-PluginExpress,mop profiler failed
+resurfaceio-logger-java,ctw time too short
+RetailMeNot-TestRailSDK,ctw time too short
+retest-recheck.cli,ctw time too short
+retog-wymiwyg-commons-core,ltw time too short
+retomerz-mosquito,ltw time too short
+revdotcom-revai-java-sdk,OK
+rex-soft-rexdb,ctw time too short
+ricksbrown-jgenhtml,ctw failed
+righettod-pst-digger,ctw time too short
+RIGS-IT-sonar-xanitizer,ctw time too short
+ripreal-V8LogScanner,ctw time too short
+riversun-bigdoc,ltw time too short
+riversun-java-promise,ctw time too short
+rjohnsondev-java-libpst,ltw time too short
+rjstanford-spreedly-java,ltw time too short
+rjwut-ian,ctw time too short
+RKumsher-utils,ltw time too short
+rnorth-duct-tape,OK
+rnorth-visible-assertions,ltw time too short
+robert-bor-aho-corasick,ltw time too short
+RobertStewart-privateer,ltw time too short
+robshep-logback-logdna,ctw time too short
+rockt-SETH,ctw time too short
+rohanpadhye-vasco,ctw failed
+romanb-JPA-NestedSet,ctw failed
+rombert-desktop-maven-notifier,ltw time too short
+romix-java-concurrent-hash-trie-map,OK
+ronmamo-reflections,ctw failed
+roskart-dropwizard-jaxws,ctw time too short
+rovats-java-utils,ltw time too short
+rpau-javalang,ctw time too short
+rponte-dbunitmanager,ltw time too short
+rponte-pin-decrypter,ltw time too short
+rpuch-xremoting,ctw time too short
+rrice-java-string-similarity,ltw time too short
+rsatrio-Keycloak-Federation-ExistingDB,ctw time too short
+rstoyanchev-spring-mvc-chat,ctw failed
+rstoyanchev-spring-websocket-portfolio,ctw failed
+RTBHOUSE-avro-fastserde,ctw time too short
+rtyley-animated-gif-lib-for-java,ltw time too short
+ruddell-jhipster-chat-example,ctw failed
+rusakovichma-DocsReporter,ctw failed
+rweather-noise-java,ltw time too short
+ryenus-rop,ltw time too short
+rynr-launchpad,ltw time too short
+saalfeldlab-stitching-spark,ctw failed
+sabomichal-liquibase-mssql,ctw time too short
+sachin-handiekar-jInstagram,ctw time too short
+sagiegurari-fax4j,ctw time too short
+sailthru-sailthru-java-client,ctw time too short
+sambatriste-sql-formatter,ltw time too short
+sandflow-regxmllib,ctw time too short
+sangkeon-java-opa-wasm,ltw time too short
+sangupta-bloomfilter,OK
+sangupta-gather,ltw time too short
+sangupta-murmur,ctw time too short
+saoj-mentabean,ctw time too short
+SAP-archive-cloud-paulpredicts,ctw time too short
+sarojaba-prettytable4j,ctw time too short
+savantly-net-log4j2-extended-jsonlayout,ctw time too short
+Sayi-swagger-diff,ctw time too short
+sbesada-java.math.expression.parser,OK
+sbesada-java.math.numerical.library,ctw time too short
+sblendorio-petscii-bbs,ctw time too short
+schnatterer-musicbrainzws2-java,OK
+SchweizerischeBundesbahnen-springboot-graceful-shutdown,ctw failed
+scijava-scripting-clojure,ctw time too short
+scipr-lab-dizk,ctw failed
+Scout24-illegal-transitive-dependency-check,ltw time too short
+Scout24-spring-boot-rpm-maven-plugin,ctw failed
+scoutant-polyline-decoder,ltw time too short
+scouter-contrib-scouter-plugin-server-alert-slack,ltw time too short
+scubajorgen-FitReader,ctw time too short
+scylladb-kafka-connect-scylladb,ctw failed
+sd4324530-JTuple,ctw time too short
+sdorra-shiro-unit,ctw time too short
+seahen-maven-s3-wagon,ltw time too short
+seansegal-tincisnotcatan,ctw failed
+searls-jasmine-maven-plugin,regular javamop (ltw) failed
+seaswalker-netty-wheel,cannot remove hot methods
+SecureSkyTechnology-burpextender-proxyhistory-webui,ctw time too short
+secure-software-engineering-sootdiff,ctw failed
+sedran-moment4j,ltw time too short
+seintur-jmixer,ctw time too short
+semuxproject-evm,ctw time too short
+seregamorph-hamcrest-more-matchers,ltw time too short
+serg472-htmlcompressor,OK
+sevntu-checkstyle-dsm-maven-plugin,ctw failed
+sgoertzen-sonar-break-maven-plugin,ctw time too short
+sgoeschl-freemarker-cli,ctw failed
+sgreben-regex-builder,ltw time too short
+shapesecurity-salvation,ltw time too short
+shazam-shazamcrest,ctw time too short
+shibing624-crf-seg,ctw time too short
+shipilev-jdk-backports-monitor,ltw time too short
+shred-commons-xml,ctw time too short
+shreyasht-java8-validator,ltw time too short
+Shunshun94-discord-bcdicebot,OK
+SiftScience-kafka-assigner,ltw time too short
+sigopt-sigopt-java,ctw time too short
+silentsoft-oss-notice-file-generator,ltw time too short
+simbo1905-root-objects,ctw failed
+simonnagl-netdata-java-orchestrator,ctw time too short
+SimpleAstronomy-simple-astronomy-lib,ltw time too short
+SimpleFinance-kafka-dropwizard-reporter,ltw time too short
+simplenlg-simplenlg,ctw failed
+simplesteph-kafka-connect-github-source,ctw time too short
+simplymequeeny-json-string-schema-generator,ctw time too short
+sinrimin-netty-socketio-client,OK
+sjbutler-idtk-j,ltw time too short
+skayvanfar-cheetah,ltw time too short
+skyscreamer-JSONassert,ltw time too short
+slub-urnlib,ltw time too short
+smacke-jaydio,ltw time too short
+smallnest-fastjson-jaxrs-json-provider,OK
+smartics-smartics-jboss-modules-maven-plugin,ctw failed
+smartrics-RestFixture,ctw time too short
+smartsheet-platform-smartsheet-java-sdk,ctw failed
+smartystreets-smartystreets-java-sdk,ctw time too short
+smitajit-es-rest-mock,ctw time too short
+smola-galimatias,ctw time too short
+smsapi-smsapi-java-client,ltw time too short
+sndyuk-logback-more-appenders,ctw time too short
+sofastack-sofa-hessian,OK
+softlayer-softlayer-java,ctw time too short
+solita-functional-utils,OK
+Sonal0409-DevOpsCodeDemo,ltw time too short
+SonarSource-sonar-auth-bitbucket,ctw time too short
+SonarSource-sonar-auth-github,ctw time too short
+sonatype-heuristic-version,ctw time too short
+sonian-elasticsearch-jetty,ctw time too short
+sonyxperiadev-gerrit-events,regular javamop (ltw) failed
+soot-oss-heros,ctw time too short
+sorra-TraceSonar,ltw time too short
+sparkapi-SparkJava,ctw time too short
+spdx-Spdx-Java-Library,ctw time too short
+spinscale-elasticsearch-graphite-plugin,OK
+spoofzu-DeepViolet,ctw time too short
+SpoonLabs-CoCoSpoon,ctw time too short
+SpoonLabs-spooet,ctw time too short
+spotify-annoy-java,ltw time too short
+spotify-async-datastore-client,ctw time too short
+spotify-futures-extra,ctw time too short
+spotify-hdfs2cass,ctw failed
+spotify-netty-zmtp,ctw failed
+spotify-simple-bigtable,ctw time too short
+spotify-ssh-agent-proxy,ltw time too short
+spriet2000-vertx-handlers-http,ctw time too short
+springml-salesforce-wave-api,ctw time too short
+SpringStudent-GyJdbc,ltw time too short
+spullara-cli-parser,ltw time too short
+spyhunter99-installcert,ltw time too short
+square-burst,ltw time too short
+square-gifencoder,ltw time too short
+square-jna-gmp,ltw time too short
+square-osstrich,ltw time too short
+square-pagerduty-incidents,ctw time too short
+sranka-jdbcimage,ltw time too short
+srikanth-lingala-zip4j,ctw time too short
+sritejakv-splitwise-java,ctw time too short
+ssedano-jump-consistent-hash,ltw time too short
+stackify-stackify-metrics,ctw time too short
+starkbank-ecdsa-java,ltw time too short
+StarlangSoftware-Corpus,ltw time too short
+StarlangSoftware-TurkishPropBank,OK
+StarlangSoftware-TurkishSentiNet,OK
+StaticBeagle-ETK4J,ltw time too short
+stefanbirkner-fake-sftp-server-rule,ctw failed
+STEMLab-JIneditor,ltw time too short
+steveash-jopenfst,ctw time too short
+stevespringett-CPE-Parser,ctw time too short
+stevespringett-cvss-calculator,ltw time too short
+stevespringett-owasp-risk-rating-calculator,ltw time too short
+stevespringett-threatmodel-sdk,ltw time too short
+stoicflame-ofx4j,ctw time too short
+str4d-ed25519-java,ltw time too short
+streamx-co-ExTree,ltw time too short
+stripe-interview-java-interview-prep,ltw time too short
+studerw-td-ameritrade-client,ctw time too short
+stupid1t-poi-excel,ctw time too short
+SumoLogic-sumologic-kinesis-connector,ctw time too short
+Supera-Inovacao-Tecnologia-PS-Java,ctw failed
+supercargo-guice-persist-jooq,ctw time too short
+SValentyn-Payment-Management-System,ltw time too short
+SvenEwald-xmlbeam,ctw time too short
+svenkubiak-jBCrypt,ctw time too short
+swagger-api-swaggerhub-maven-plugin,ctw failed
+Sweetiee-yi-Jaba,OK
+swri-robotics-bag-reader-java,ctw time too short
+swtcpro-jingtum-lib-java,ctw time too short
+sysco-middleware-kafka-client-collector,ctw time too short
+szagriichuk-search-api,ltw time too short
+tabulapdf-tabula-java,ctw failed
+tacitknowledge-jcr-mock,ltw time too short
+TakahikoKawasaki-nv-i18n,ctw time too short
+TakahikoKawasaki-nv-websocket-client,ltw time too short
+takari-directory-watcher,ltw time too short
+takari-maven-profiler,ctw failed
+takari-takari-local-repository,ctw failed
+takashi-ishio-selogger,ctw failed
+talios-coffee-maven-plugin,ctw failed
+tarql-tarql,ctw time too short
+tauris-io-expression,ctw time too short
+taxjar-taxjar-java,ctw time too short
+tbuktu-ntru,ltw time too short
+tchristofferson-Config-Updater,ctw time too short
+tcurdt-hadoop-lzo-java,ltw time too short
+tcurdt-jdeb,ctw time too short
+tcurdt-jdependency,ltw time too short
+tdebatty-java-LSH,ltw time too short
+tdebatty-java-string-similarity,ltw time too short
+tdunning-anomaly-detection,ltw time too short
+tdunning-bandit-ranking,OK
+tdunning-open-json,ltw time too short
+teaey-apns4j,ltw time too short
+tecsinapse-tecsinapse-data-io,ctw failed
+telefonicaid-netphony-network-protocols,ctw time too short
+tencentyun-cos-java-sdk-v4,ltw time too short
+tenlee2012-elasticsearch-analysis-demo,ctw time too short
+terrestris-shogun-legacy,ctw time too short
+tfredrich-DateAdapterJ,ltw time too short
+ThangLeQuoc-aqi-calculator,ctw time too short
+Thare-Lam-fast-elasticsearch-query-builder,ctw time too short
+TheBlackChamber-commons-encryption,OK
+theborakompanioni-thymeleaf-extras-shiro,ctw time too short
+TheCookieLab-poloniex-api-java,ctw time too short
+thegedge-java-radix-tree,ltw time too short
+TheHolyWaffle-TeamSpeak-3-Java-API,ltw time too short
+ThinkingDataAnalytics-java-sdk,ctw time too short
+thomasmueller-minperf,OK
+thomasmueller-tinyStats,OK
+ThoughtWire-hazelcast-locks,OK
+thrau-jarchivelib,ctw time too short
+threedr3am-dubbo-exp,ltw time too short
+threefish-nutz-sqltpl,ctw time too short
+threerings-react,ltw time too short
+ThreeTen-threetenbp,OK
+thundra-io-thundra-lambda-warmup,ctw time too short
+thymeleaf-thymeleaf-itutorial,ctw time too short
+TiBeN-ia-rcade,ltw time too short
+tking-JSTUN,ltw time too short
+tkutcher-jgrade,ltw time too short
+TNG-property-loader,ctw time too short
+tobyweston-Refactoring-Chapter-1,ltw time too short
+tommyettinger-BlazingChain,ltw time too short
+tommyettinger-RegExodus,ltw time too short
+tomsik68-mclauncher-api,ltw time too short
+tomwhite-set-game,OK
+TongxiJi-shadowsocks-java,ctw time too short
+tonikolaba-BatBat-Game,ltw time too short
+tony19-named-regexp,ltw time too short
+tonydeng-fmj,ltw time too short
+tonysparks-leola,ctw time too short
+toolbox4minecraft-amidst,ctw time too short
+toolfactory-narcissus,ltw time too short
+topwingo-zeroFlow,ctw time too short
+ToryZhou-design-pattern,ltw time too short
+traiana-kafka-spiffe-principal,ctw time too short
+trautonen-coveralls-maven-plugin,clone failed
+trekawek-coffee-gb,ltw time too short
+trganda-yaml2http,ctw time too short
+Trigary-AdvancementCreator,ctw time too short
+triologygmbh-reCAPTCHA-V2-java,ctw time too short
+tripluo-jrouter,ctw failed
+trystan-AsciiPanel,ctw time too short
+Tsovak-selenium-wrapper-framework,ctw failed
+tud-fop-j-Algo,ltw time too short
+tupilabs-tap4j,ctw time too short
+tv2norge-collab-java-serf-client,ltw time too short
+tvesalainen-bcc,ltw time too short
+Twasi-twasi-core,ltw time too short
+twitter-joauth,ctw time too short
+twitter-netty-http2,ctw time too short
+twitter-nodes,ctw time too short
+twitter-sbf,ctw time too short
+twitter-twitter-korean-text,ctw failed
+typesafehub-netty-http-pipelining,ctw time too short
+uber-common-jvm-profiler,ctw time too short
+UCL-CREST-Siamese,regular javamop (ltw) failed
+udger-udger-java,ltw time too short
+uia4j-uia-sim,ctw time too short
+uklimaschewski-JMXWrapper,ltw time too short
+ukman-kolobok,ltw time too short
+undera-perfmon-agent,ctw failed
+unitsofmeasurement-unit-ri,ltw time too short
+unitsofmeasurement-uom-se,ltw time too short
+unruly-control,ctw time too short
+unruly-java-8-matchers,ltw time too short
+uPortal-Project-portlet-utils,ctw time too short
+uPortal-Project-WebproxyPortlet,ctw failed
+uprotocol-platform-java,ctw failed
+upyun-java-sdk,OK
+urbanairship-datacube,ctw failed
+usingsky-KoreanLunarCalendar,ltw time too short
+usnistgov-Lineage-Mapper,ctw time too short
+uwolfer-gerrit-rest-java-client,ctw time too short
+valery1707-kaitai-maven-plugin,ctw time too short
+valfirst-jbehave-junit-runner,ctw failed
+vangj-jbayes,ctw time too short
+vashishthask-eclipse-to-maven,ctw time too short
+vasia-gelly-streaming,ctw failed
+VaughnVernon-mockroservices-java,ctw time too short
+vaulttec-sonar-auth-oidc,ctw time too short
+vdurmont-emoji-java,ltw time too short
+vdurmont-etaprinter,ltw time too short
+vdurmont-semver4j,ltw time too short
+venushka-jmxeval,ctw time too short
+veraPDF-veraPDF-parser,regular javamop (ltw) failed
+VerbalExpressions-JavaVerbalExpressions,ltw time too short
+verilylifesciences-genomewarp,ctw time too short
+vert-x3-vertx-docgen,ctw time too short
+vert-x3-vertx-maven-starter,ctw failed
+vert-x3-vertx-service-factory,ctw failed
+vibur-vibur-object-pool,ltw time too short
+victor-porcar-delayed-batch-executor,cannot remove hot methods
+victorrentea-clean-code-dive,ltw time too short
+vidageek-crawler,ctw time too short
+vidstige-jadb,ctw time too short
+vincentrussell-java-ini-parser,ltw time too short
+vinhkhuc-lbfgs4j,ltw time too short
+vinta-pangu.java,ltw time too short
+visenze-visearch-sdk-java,ctw time too short
+vitalidze-chromecast-java-api-v2,ctw time too short
+vivekragunathan-JINQ,ltw time too short
+viz-centric-flair-commons,ltw time too short
+vizor-games-infraworld-cornerstone,ltw time too short
+vladimir-bukhtoyarov-rolling-metrics,regular javamop (ltw) failed
+vlingo-xoom-auth,cannot remove hot methods
+vlingo-xoom-cluster,ctw time too short
+vlingo-xoom-streams,ctw time too short
+vmware-vrops-export,ctw failed
+vmzakharov-dataframe-ec,ctw time too short
+volkodavs-secret-santa,ltw time too short
+volodya-lombrozo-hg-revision-plugin,ltw time too short
+w3blogfr-zebra-zpl,ltw time too short
+walmartlabs-gozer,ctw time too short
+wang007-vertx-start,ctw time too short
+warmuuh-libsass-maven-plugin,ltw time too short
+wavefrontHQ-wavefront-fdb-tailer,ctw time too short
+wavefrontHQ-wftop,ctw time too short
+waynedyck-gwt-gantt,ltw time too short
+wcnwyx-gm-encryption,ctw time too short
+wdtinc-mapbox-vector-tile-java,ctw time too short
+wealthfront-thompson-sampling,ctw time too short
+weaverj-erserver,ltw time too short
+webbynet-protostuff-runtime-proto,ctw time too short
+webjars-webjars-locator,ctw time too short
+weblyzard-nilsimsa,ltw time too short
+webmate-io-webmate-sdk-java,ctw time too short
+WebThingsIO-webthing-java,ltw time too short
+wechatpay-apiv3-CertificateDownloader,ctw time too short
+Wedjaa-JavaAnsibleVault,ctw time too short
+weibocom-yar-java,ctw time too short
+welk1n-ReverseShell-Java,ltw time too short
+wepay-WePay-Java-SDK,ltw time too short
+weswilliams-GivWenZen,ctw time too short
+whizzosoftware-WZWave,ctw time too short
+william-ferguson-au-asymmetric-crypto,ltw time too short
+wiqer-ef-redis,OK
+wmixvideo-bradesco-boleto-registro,ltw time too short
+wnameless-workbook-accessor,ctw failed
+wolf-yuan-6115-flowermoon,ltw time too short
+woodpecker-appstore-yonyou-nc-decrypter,ltw time too short
+Workday-timeseries-forecast,ltw time too short
+wso2-config-mapper,ctw time too short
+wstrange-GoogleAuth,ltw time too short
+wttech-Maven-CRX-Plugin,ctw time too short
+wuba-LPA-Detector,ctw failed
+wxynihao-book118-downloader,OK
+xcbeyond-ConferenceTrackManagement,ltw time too short
+Xchuanshuo-LiteNESEmulator,ltw time too short
+xcsp3team-XCSP3-Java-Tools,ctw time too short
+xdev-software-xapi,regular javamop (ltw) failed
+xdwangwei-atguigu_ssm_crud,ctw failed
+xebia-Xebium,ctw time too short
+xianfengyi-ExprEngine,ltw time too short
+xiangbohua-scales-bridge,ltw time too short
+xingePush-xinge-api-java,OK
+xjodoin-torpedoquery,ctw time too short
+xnnyygn-dynamic-log-level,ltw time too short
+xspec-xspec-maven-plugin-1,OK
+xuanbo-dag-executor,OK
+xuminwlt-j360-tools,ltw time too short
+XUranus-lightsocks-java,ltw time too short
+yagarea-java-chat,ltw time too short
+yanceyZhang-wx-chatbot,ctw time too short
+yanjunli-eos-crypto-java,regular javamop (ltw) failed
+yawkat-reflect,ltw time too short
+ycdtbs-Face-recognition-login,ctw failed
+yegor256-cactoos,ctw failed
+yegor256-threecopies,test failed
+yfpeng-pengyifan-leetcode,ltw time too short
+yichen0831-OpenCC-Java,ltw time too short
+yinlou-mltk,ltw time too short
+yomorun-hashids-java,ctw time too short
+ysc-word,OK
+Yubico-yubico-j,ltw time too short
+YuboLong-MyLive,ctw time too short
+yuqi1129-calcite-test,ctw time too short
+yurelle-Base45Encoder,ltw time too short
+zafarkhaja-jsemver,ltw time too short
+zalandoresearch-zap,ctw failed
+zalando-stups-java-sproc-wrapper,ctw time too short
+zencoder-zencoder-java,OK
+zeroturnaround-maven-jrebel-plugin,ltw time too short
+zeroturnaround-zt-process-killer,ctw failed
+zerouwar-Octopus,ctw time too short
+Zettelkasten-Team-Zettelkasten,ctw failed
+zhanyeye-DesSim,ctw time too short
+zhaolihe-useragent-parser,ctw time too short
+zheng93775-mysql-lock,ctw failed
+zhining-lu-netty-websocket-proxy,ctw time too short
+zhixiangli-code-similarity,ltw time too short
+ZhongAnTech-dmds,ctw time too short
+zhongxunking-sync,ltw time too short
+zhoujianling-PointCloudUtilities,OK
+zhuweitung-banana-helper,ctw time too short
+zihluwang-opensource-core,ltw time too short
+Zlika-reproducible-build-maven-plugin,ctw time too short
+zman2013-scuttlebutt,ctw time too short
+ZsBT-mrz-java,ltw time too short
+ztelur-consistent-hash-algorithm,ltw time too short
+ZZMarquis-gmhelper,regular javamop (ltw) failed

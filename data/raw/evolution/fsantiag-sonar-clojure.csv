@@ -1,0 +1,9 @@
+project,sha,test time,test status,mop time,mop status,ps1c time,ps1c status,ps3cl time,ps3cl status,ctw download status,ctw compile time,ctw compile status,ctw instr time,ctw instr status,ctw mop time,ctw mop status,ctw e2e time,base rv,instr source time
+fsantiag-sonar-clojure,9922f9e9c2dbcf235cd60dbcc858b6bb09e161d4,3400,0,10772,0,15834,0,15000,0,0,3162,0,84359,0,5778,0,93373,1,-1
+fsantiag-sonar-clojure,9935c60ac67a3353a565ad6b2241ffaf051421a8,3500,0,10715,0,11302,0,7609,0,0,2799,0,3284,0,2757,0,8908,0,-1
+fsantiag-sonar-clojure,6b6056f0b74bdc800ca7eee0565ef42bb28ffb5c,3821,0,19129,0,16587,0,8486,0,0,2929,0,6188,0,3098,0,12294,0,5806
+fsantiag-sonar-clojure,11f61545596e9b642176c65a4418b81dac1a0a28,3430,0,19960,0,15250,0,7697,0,0,3016,0,4408,0,3021,0,10526,0,4110
+fsantiag-sonar-clojure,0e1b4b92c63836fe9224e1a54d60aeed0619adf2,3636,0,20345,0,14423,0,7823,0,0,3034,0,1822,0,2990,0,7923,0,-1
+fsantiag-sonar-clojure,8452318ec4a4cd88882dafe38cdde2a572ab5971,3655,0,20014,0,14737,0,7702,0,0,2903,0,2777,0,2962,0,8717,0,-1
+fsantiag-sonar-clojure,47def364f62597cb278375626b708f324ca68034,3900,0,20138,0,14845,0,7923,0,0,2952,0,5394,0,3134,0,11557,0,5095
+fsantiag-sonar-clojure,9323fe0c960896b2869346ab984d6db93643c65f,3739,0,20672,0,15171,0,8181,0,0,2827,0,3101,0,3015,0,9019,0,-1
