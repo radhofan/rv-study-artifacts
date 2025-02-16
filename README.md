@@ -1,3 +1,11 @@
+### NOTE: THIS REPO IS INTENDED AS A REPRODUCIBLE PAPER EXPERIMENT AND IS INTENDED TO BE RAN INSIDE A TERMINAL IN EITHER TROVI/BINDER
+### THIS README.MD MAY HAVE MORE INSTRUCTIONS THAN THE ORIGINAL REPO TO ENSURE PERFECT REPLICATION
+### REPRODUCE THIS REPO IN TROVI VIA THIS LINK: https://chameleoncloud.org/experiment/share/46e3cf54-499b-4e38-9ba0-0d9f3de04949
+### REPRODUCE THIS REPO IN BINDER VIA THIS LINK: https://mybinder.org/ 
+    - GitHub Repository : `https://github.com/radhofan/rv-study-artifacts.git`  
+    - Notebook File : `reproduce.ipynb`  
+### ORIGINAL REPO LINK: https://github.com/SoftEngResearch/rv-study-artifacts
+
 # Artifacts for: An In-Depth Study of Runtime Verification Overheads during Software Testing
 
 ## Appendix
